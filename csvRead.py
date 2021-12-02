@@ -24,8 +24,21 @@ def writeJSON(filename, data):
 
 def search(index):
     requestBody = {
+        "size":20,
         "query":{
-            "match_all":{}
+          #  "match_all":{}
+           "bool": {
+               "filter": [
+                   {"term": {"Symptome.keyword": "Durchfall"}},
+              #     {    ""
+              #     }
+               ]
+           }
+        },
+        "aggregations": {
+            "Name": {
+                "terms":{"field": "Symptome.keyword", "size": 20}
+            }
         }
     }
     response = es.search(index=index, body=requestBody)
