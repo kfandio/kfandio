@@ -7,4 +7,8 @@ import pandas as pd
 with open("Krankheiten.csv") as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
-        print(row)
+        confirmed = int(row["confirmed"])
+        recovered = int(row["recovered"])
+        deaths    = int(row["deaths"])
+        active    = confirmed - recovered - deaths
+        print("active :", active)
