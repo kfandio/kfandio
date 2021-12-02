@@ -1,4 +1,4 @@
-Name,Übertragen über,Symptome,Infektionsart,Mensch zu Mensch Ansteckung
+Name,Uebertragen,Symptome,Infektionsart,Mensch zu Mensch Ansteckung
 Adnexitis,Körperflüssigkeiten,"Fieber, Unterleibschmerzen, stark riechender eitriger Ausfluss, vaginale Blutung",bakteriell,ja
 Afrikanisches Zeckenbissfieber,blutsaugende Insekten,"Kopfschmerzen, Gliederschmerzen, Fieber, Eschar",bakteriell,nein
 Aktinomykose,Kontakt,"Abzessbildung im Mund/ Gesicht/ Hals, Fieber, Schüttelfrost, Schwächegefühl",bakteriell,nein
@@ -18,13 +18,13 @@ Enterohämorrhagische Colitis,Lebensmittel,"Darmentzündungen, Durchfall, Unterl
 Erysipel,Kontakt,"Rötung, Schwellung, Blasenbildung, geschwollene Lymphknoten, Fieber, Kopfschmerzen",bakteriell,nein
 Erythrasma,Kontakt,hellbraune-hellrote Flecken,bakteriell,nein
 Fitz-Hugh-Curtis-Syndrom,Folgekrankheit,"Bauchschmerzen, Übelkeit, Erbrechen ",bakteriell,nein
-Fleckfieber,blutsaugende Insekten ,"Fieber, Hautausschlag, Kopfschmerzen, Gliederschmerzen",bakteriell,nein
+Fleckfieber,"blutsaugende Insekten ","Fieber, Hautausschlag, Kopfschmerzen, Gliederschmerzen",bakteriell,nein
 Fournier-Gangrän,Kontakt,"Rötung, Schwellung, starke Schmerzen, übler Geruch, Juckreiz, Fieber",bakteriell,ja
 Gasbrand,Kontakt,"Wundschmerz, Wundödem, Schwellung, Verfärbung, überlriechendes Sekret",bakteriell,ja
 Gonorrhoe,Körperflüssigkeiten,"übelriechendes Sekret, Schmerzen beim Wasserlassen, Unterleibsschmerzen",bakteriell,ja
 Haemophilus influenzae b-Infektion,Tröpchen,"Fieber, Schluckbeschwerden, Atemnot",bakteriell,ja
-Halsphlegmone,Kontakt ,"Kopfschmerzen, Kieferschmerzen, Kehlkopfschwellung, Atemnot",bakteriell,nein
-Humane Granulozytäre Anaplasmose,blutsaugende Insekten ,"Fieber, Schüttelfrost, Kopfschmerzen, Muskelschmerzen",bakteriell,nein 
+Halsphlegmone,"Kontakt ","Kopfschmerzen, Kieferschmerzen, Kehlkopfschwellung, Atemnot",bakteriell,nein
+Humane Granulozytäre Anaplasmose,"blutsaugende Insekten ","Fieber, Schüttelfrost, Kopfschmerzen, Muskelschmerzen",bakteriell,"nein "
 Impetigo contagiosa,Kontakt,"blasige Auswürfe, Hautrötung, Juckreiz, honiggelber Schorf",bakteriell,ja
 Keuchhusten,Tröpchen,"Schnupfen, Husten, Schwächegefühl, Erbrechen, Appetitlosigkeit, Schlaflosigkeit",bakteriell,ja
 Kindbettfieber,Kontakt,"Fieber, Unterleibsschmerzen, Übelkeit, Erbrechen, Hyperventilieren, Herzrasen ",bakteriell,nein
@@ -32,35 +32,35 @@ Legionellose,Tröpchen,"Husten , Schüttelfrost, Kopfschmerzen, Fieber, Durchfal
 Lemierre-Syndrom,Kontakt,"Fieber, Schüttelfrost, Schluckbeschwerden, Nackenschmerzen, Schwellung, Rötung, Nackensteife, Unterleibsschmerzen, Übelkeit, Erbrechen",bakteriell,nein
 Leptospirose,Kontakt,"Fieber, Schüttelfrost, Kopfschmerzen, Gliederschmerzen, Bindehautentzündung, Wadenschmerzen, Schienbeinschmerzen",bakteriell,nein
 Listeriose,Lebensmittel,"Fieber, Muskelschmerzen, Erbrechen, Durchfall, Sepsis, Meningitis, Athritis",bakteriell,ja
-Melioidose,Kontakt,"Fieber, Knotenbildung der Haut, Lungenproble",bakteriell,nein 
-Milzbrand,Tierkontakt,"Fieber, Durchfall, Übelkeit, Erbrechen, Appetitlosigkeit",bakteriell,nein 
+Melioidose,Kontakt,"Fieber, Knotenbildung der Haut, Lungenproble",bakteriell,"nein "
+Milzbrand,Tierkontakt,"Fieber, Durchfall, Übelkeit, Erbrechen, Appetitlosigkeit",bakteriell,"nein "
 Morbus Whipple,unbekannt,"Athritis, Gewichtsverlust, Unterleibsschmerzen, Diarrhö",bakteriell,nein
 Nekrotisierende Fasziitis,Kontakt,"starker Schmerz im infizierten Bereich, Fieber, Schüttelfrost, Rötung",bakteriell,nein
 Neurolues,Folgekrankheit,"Größenwahn, Persöhnlichkeitsstörung, Argyll-Robertson-Zeichen",bakteriell,nein
 Nierenbeckenentzündung,Kontakt,"Fieber, Schüttelfrost, Flankenschmerzen, Übelkeit",bakteriell,nein
-Noma ,Kontakt,"Wunde in der Mundschleimhaut, Geschwür an der Wange, Wangenbrand, Mundgeruch",bakteriell,nein 
+"Noma ",Kontakt,"Wunde in der Mundschleimhaut, Geschwür an der Wange, Wangenbrand, Mundgeruch",bakteriell,"nein "
 Omphalitis,Kontakt,"Schwellung, Rötung, Berührungsempfindlichkeit",bakteriell,nein
 Ophthalmia neonatorum,Kontakt,"Bindehautentzündung, Eiterbildung, Sehverlust, Geschwüre",bakteriell,ja
 Orbitaphlegmone,Kontakt,"Schwellung, Rötung, eingeschränke Augenbeweglichkeit, Schmerzen",bakteriell,nein
 Ornithose,Tierkontakt,"Fieber, Schüttelfrost, Kopfschmerzen, Gliederschmerzen, Atemnot, Husten, Schmerzen",bakteriell,nein
 Paratyphus,Lebensmittel,"Durchfall, Übelkeit, Erbrechen, Unterleibsschmerzen, Fieber",bakteriell,nein
 Parodontitis,Kontakt,"Gerötetes Zahnfleisch, Zahnfleischbluten, Rückgang des Zahnfleischs, Mundgeruch, Schmerzen, Zahnverlust",bakteriell,ja
-Peritonsillarabszess,Tröpchen ,"Halsentzündung, klossige Stimme, Lageabweichung des Zäpchens",bakteriell,ja
+Peritonsillarabszess,"Tröpchen ","Halsentzündung, klossige Stimme, Lageabweichung des Zäpchens",bakteriell,ja
 Pest,Tierkontakt,"Fieber, Kopfschmerzen, Schwächegefühl, blutigem Husten, Brustschmerzen, Übelkeit, Erbrechen, Unterleibsschmerzen, schwarz/bläuliche Hautfärbung, Schüttelfrost ",bakteriell,ja
 Petrositis,Folgekrankheit,"Schmerzen im Scheitel, Schmerzen der Zähne, Schmerzen der Augen, Eiterung im Ohr, Lähmung des Augenmuskels, Hirnhautentzündung, Sinusthrombose",bakteriell,nein
 Phlegmone,Kontakt,"dunkle/ blaue Rötung der Haut, Schwllung, warme Haut, Ödem, Druckschmerz, Eiteransammlung, Fieber, Schwächegefühl, Atemnot",bakteriell,ja
-Pinta ,Kontakt,"Hautläsion, Papelbildung",bakteriell,ja
-Pyodermie,Kontakt,"Hautrötung, Schuppenbildung, Juckreiz",bakteriell,nein 
-Pyomyositis,Kontakt ,"Appeitsverlust, Fieber, Schmerzen, Schwellungen, gerötete Haut, Schüttelfrost, Hautentzündungen, Eiterbildung, Abszessbildung, Nierenversagen, Sepsis",bakteriell,nein 
+"Pinta ",Kontakt,"Hautläsion, Papelbildung",bakteriell,ja
+Pyodermie,Kontakt,"Hautrötung, Schuppenbildung, Juckreiz",bakteriell,"nein "
+Pyomyositis,"Kontakt ","Appeitsverlust, Fieber, Schmerzen, Schwellungen, gerötete Haut, Schüttelfrost, Hautentzündungen, Eiterbildung, Abszessbildung, Nierenversagen, Sepsis",bakteriell,"nein "
 Q-Fieber,Tierkontakt,"Fieber, Schüttelfrost, Muskelschmerzen, Kopfschmerzen, Entzündungen",bakteriell,ja
 Salmonellose,Lebensmittel,"Darmentzündung, Durchfall, Kopfschmerzen, Bauchschmerzen, Unwohlsein, Erbrechen",bakteriell,ja
-Scharlach,Tröpfchen ,"Halsschmerzen, Fieber, Schüttelfrost, Schluckbeschwerden, Erbrechen, Hautausschlag, Abgeschlagenheit, geschwollene Mandeln, geschwollene Lymphknoten",bakteriell,ja
-Spondylodiszitis,Kontakt,"Rückenschmerzen, körperliche Schwäche, Unwohlsein, Appetitlosigkeit, Gewichtsverlust; Fieber",bakteriell,nein 
+Scharlach,"Tröpfchen ","Halsschmerzen, Fieber, Schüttelfrost, Schluckbeschwerden, Erbrechen, Hautausschlag, Abgeschlagenheit, geschwollene Mandeln, geschwollene Lymphknoten",bakteriell,ja
+Spondylodiszitis,Kontakt,"Rückenschmerzen, körperliche Schwäche, Unwohlsein, Appetitlosigkeit, Gewichtsverlust; Fieber",bakteriell,"nein "
 Streptokokkenangina,Tröpchen,"Fieber, Kopfschmerzen, Halsschmerzen, Schluckbeschwerden, Ohrenschmerzen",bakteriell,ja
 Syphilis,Körperflüssigkeiten,"Fieber, Müdigkeit, Kopfschmerzen, Gelenkschmerzen, Muskelschmerzen, geschwollene Lymphknoten, Hautausschlag",bakteriell,ja
 Tetanus,Kontakt,"Muskelkrämpfe im Gesicht, Eingeschränkte Mundfunktionen, Steifer Nacken, Schluckbeschwerden ",bakteriell,nein
-Tonsillitis,Tröpfchen ,"Schluckbeschwerden, Halsschmerzen, Ohrenschmerzen, Kieferschmerzen, gerötete Mandeln, Mundgeruch, vermehrter Speichelfluss, Fieber",bakteriell,ja
-Tsutsugamushi-Fieber,blutsaugende Insekten ,"Fieber, Schüttelfrost, Kopfschmerzen, Ausschlag",bakteriell,nein 
+Tonsillitis,"Tröpfchen ","Schluckbeschwerden, Halsschmerzen, Ohrenschmerzen, Kieferschmerzen, gerötete Mandeln, Mundgeruch, vermehrter Speichelfluss, Fieber",bakteriell,ja
+Tsutsugamushi-Fieber,"blutsaugende Insekten ","Fieber, Schüttelfrost, Kopfschmerzen, Ausschlag",bakteriell,"nein "
 Tuberkulose,Tröpchen,"Husten, Gewichtsabnahme, Müdigkeit, Fieber, Nachtschweiß",bakteriell,ja
 Tularämie,Tierkontakt,"Fieber, Lymphknotenschwellung, Lymphknotenschwellung, Schüttelfrost, Unwohlsein, Kopfschmerzen, Gliederschmerzen",bakteriell,ja
 Typhus,Lebensmittel,"Kopfschmerzen, Gliederschmerzen, Fieber, Benommenheit, Unterleibschmerzen, Husten, Verstopfung, Durchfall, juckende- stecknadelkopfgroße-rötliche Flecken auf Bauch/ Brust und Rücken, dicker weisser Belag auf der Zunge mit  himbeerroter Umrandung",bakteriell,ja
@@ -68,13 +68,13 @@ Ulcus molle,Körperflüssigkeiten,"rötliche Papeln, Bläschen, Geschwür am Ges
 Weil-Krankheit,Kontakt,"Fieber, Schüttelfrost, Erbrechen, Durchfall, Muskelschmerzen, Gliederschmerzen, Schwellung der Leber, Gelbfärbung der Haut, Gelbfärbung des Auges, Nierenentzündung, Hautausschlag, Hirnentzündung",bakteriell,ja
 Yersiniose,Lebensmittel,"Unterleibschmerzen, Fieber, Durchfall, Erbrechen",bakteriell,ja
 Zahnkaries,Kontakt,"Verfärbung der Zähne, Loch im Zahn, Erhöhte Zahnempfindlichkeit, Zahnschmerzen",bakteriell,nein
-Zystitis,Kontakt,"Schmerzen beim Wasserlassen, erschwertes Wasserlassen, häufiger Harndrang, vermehrter nächtlicher Harndrang, Schmerzen in der Blasengegend",bakteriell,nein 
+Zystitis,Kontakt,"Schmerzen beim Wasserlassen, erschwertes Wasserlassen, häufiger Harndrang, vermehrter nächtlicher Harndrang, Schmerzen in der Blasengegend",bakteriell,"nein "
 AIDS,Körperflüssigkeiten,"Fieber, Abgeschlagenheit, Müdigkeit, Unwohlsein, Nachtschweiß, Durchfall, Abgeschlagenheit, geschwollene Mandeln, geschwollene Lymphknoten, Muskelschmerzen, Hautausschlag",Virus,ja
 Bornholmsche Krankheit,Kontakt,"Entzündung der Brustmuskulatur, Entzündung der Abdomenmuskulatur, Rippenfellentzündung, gürtelfärmiger Thoraxschmerz",Virus,ja
-California-Enzephalitis,blutsaugende Insekten,"Kopfschmerzen, Gliederschmerzen, Übelkeit, Fiebr, epileptische Anfälle, Lähmungserscheinungen",Virus,nein 
-Chikungunya-Fieber,blutsaugende Insekten,"Fieber, Muskelschmerzen, Gelenkschmerzen, Abgeschlagenheit, Übelkeit",Virus,nein 
+California-Enzephalitis,blutsaugende Insekten,"Kopfschmerzen, Gliederschmerzen, Übelkeit, Fiebr, epileptische Anfälle, Lähmungserscheinungen",Virus,"nein "
+Chikungunya-Fieber,blutsaugende Insekten,"Fieber, Muskelschmerzen, Gelenkschmerzen, Abgeschlagenheit, Übelkeit",Virus,"nein "
 Colorado-tick-Fieber,blutsaugende Insekten,"Fieber, Schüttelfrost, Übelkeit, Kopfschmerzen",Virus,ja
-Covid-19,Tröpfchen,"Husten, Fieber, Schnupfen, Störung des Geruchssinns, Störung des Geschmackssinns, Halsschmerzen, Atemnot, Kopfschmerzen, Gliederschmerzen, Schwäche",Virus,nein 
+Covid-19,Tröpfchen,"Husten, Fieber, Schnupfen, Störung des Geruchssinns, Störung des Geschmackssinns, Halsschmerzen, Atemnot, Kopfschmerzen, Gliederschmerzen, Schwäche",Virus,"nein "
 Denguefieber,blutsaugende Insekten,"Fieber, Schüttelfrost, Schwäche, Kopfschmerzen, Gliederschmerzen, Bindehautentzündung",Virus,ja
 Drei-Tage-Fieber,Tröpfchen,"Fieber, Halsschmerzen, laufende Nase, Husten, geschwollene Lymphknoten",Virus,ja
 Durchfall,Kontakt,"Unterleibsschmerzen, Blähungen, Übelkeit, Erbrechen, Appetitlosigkeit, Kreislaufprobleme, Fieber",Virus,ja
@@ -106,9 +106,9 @@ O'nyong-nyong-Fieber,blutsaugende Insekten,"Schüttelfrost, Kopfschmerzen, Fiebe
 Omsk-hämorrhagisches-Fieber,blutsaugende Insekten,"Fieber, Schüttelfrost, Kopfschmerzen, Muskelschmerzen, Hautausschlag, Übelkeit, Erbrechen, Durchfall, Brustschmerzen, Unterleibsschmerzen, Gingivitis, Pharyngitis, Enanthem, Lymphadenitis",Virus,ja
 Oropouche-Fieber,blutsaugende Insekten,"Kopfschmerzen, Augenschmerzen, Muskelschmerzen, Gelenkschmerzen, Übelkeit, Erbrechen, geschwollene Drüsen, Hautauschhlag",Virus,ja
 Pfeiffer-Drüsenfieber,Tröpfchen,"Lichtempfindlichkeit, weißer Belag auf Mandeln, Schluckbeschwerden, geschwollene Lymphknoten, vergrößerte Milz, geschwollene Leber",Virus,ja
-Powassan-Enzephalitis,blutsaugende Insekten,"Fieber, Schwindel, Kopfschmerz, Nackensteifigkeit, Erbrechen, Ataxie, Hemiplegie",Virus,nein 
+Powassan-Enzephalitis,blutsaugende Insekten,"Fieber, Schwindel, Kopfschmerz, Nackensteifigkeit, Erbrechen, Ataxie, Hemiplegie",Virus,"nein "
 Rift-Tal-Fieber,blutsaugende Insekten,"Kopfschmerzen, Gelenkschmerzen, Muskelschmerzen, Übelkeit, Fieber, innere Blutungen, Entzündung der Leber, Entzündung des Gehirns, Erblindung",Virus,nein
-Ringelröteln ,"Tröpfchen, Körperflüssigkeiten","Hautauschlag auf Wangen/ Nase, Spannungsgefühl, Juckreiz",Virus,ja
+"Ringelröteln ","Tröpfchen, Körperflüssigkeiten","Hautauschlag auf Wangen/ Nase, Spannungsgefühl, Juckreiz",Virus,ja
 Roscio-Enzephalitis,blutsaugende Insekten,"Kopfschmerz, Fieber, Unwohlsein, Müdigkeit,  Anorexie, Enzephalitis",Virus,nein
 Ross-River-Fieber,blutsaugende Insekten,"Fieber, Gelenkschmerzen, Muskelschmerzen",Virus,nein
 Röteln,"Tröpfchen, Körperflüssigkeiten","Kopfschmerzen, Appetitlosigkeit, Bindehautsentzündung, Entzündung der Augenlider, verstopfte/ rinnende Nase, geschwollene Lymphknoten",Virus,ja
