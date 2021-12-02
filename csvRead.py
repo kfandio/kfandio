@@ -1,14 +1,40 @@
 import csv, json
+from elasticsearch import Elasticsearch
 import pandas as pd
 
-#filename = "Krankheiten.csv"
-#pd.read_csv(filename)
+es = Elasticsearch()
 
-with open("Krankheiten.csv") as csvfile:
-    reader = csv.DictReader(csvfile)
-    for row in reader:
-        confirmed = int(row["confirmed"])
-        recovered = int(row["recovered"])
-        deaths    = int(row["deaths"])
-        active    = confirmed - recovered - deaths
-        print("active :", active)
+def readCSV(filename):
+    with open(filename + ".csv") as csvFile:
+        reader = csv.DictReader(csvFile)
+        data = []
+        for row in reader:
+           # print(row)
+           data.append(row)
+    return data
+
+def dataToEs(index, data):
+    for element in data:
+        es.index(index=index, id =element["Name"], body =json.dumps(element))
+
+
+def writeJSON(filename, data):
+    with open(filename + ".json", "w") as jsonFile:
+        json.dump(data, jsonFile, indent=4)
+
+def search(index):
+    requestBody = {
+        "query":{
+            "match_all":{}
+        }
+    }
+    response = es.search(index=index, body=requestBody)
+    print(response["hits"]["hits"])
+
+files = ["Krankheiten"]
+#for file in files:
+#    data = readCSV(file)
+#    dataToEs("kranheiten-data",data)
+#    #writeJSON(file,data)
+
+search("kranheiten-data")
