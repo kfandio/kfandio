@@ -1,17 +1,240 @@
-Symptomname," Körperstellen"
-gerötet,Haut
-grauweiß,Haut
-verquollen,Haut
-Einrisse,Haut
-jukend,Haut
-Hautveränderungen,Haut
-husten,"Lunge, Atmungssystem"
-Atemnot,"Lunge, Atmungssystem"
-Kurzatmigkeit,"Lunge, Atmungssystem"
-Atemgeräusche,"Lunge, Atmungssystem"
-Asthmaanfall,"Lunge, Atmungssystem"
-mühsames Ausatmen,"Lunge, Atmungssystem"
-schlechte Sehstärke,Augen
-Augenhochdruck,Augen
-Offenwinkelglaukom,Augen
-Sehnervbeschädigung,Augen
+Symptom
+Anorexie
+Äußere Blutungen
+Übelriechendes Sekret
+Übler Geruch
+Übler Mundgeruch
+Abgeschlagenheit
+Abneigung gegen Fett und Alkohol
+Abszessbildung
+Abzessbildung im Mund/ Gesicht/ Hals
+Ödem
+Agression
+Angst vorm Schlucken
+Anschwellen der Ohrspeicheldrüsen
+Ãœbelkeit
+Apathie
+Appeitsverlust
+Appetitlosigkeit
+Appetitmangel
+Argyll-Robertson-Zeichen
+Arthralgie
+Ataxie
+Atemnot
+Athritis
+Augenschmerzen
+ausbreitender Ausschlag
+Ausfluss
+Ausschlag
+Bauchschmerzen
+Benommenheit
+Berührungsempfindlichkeit
+Bewegungsstörung
+Bewusstseinsstörung
+Bindehautsentzündung
+Blähungen
+Bläschenbildung
+Bläschenbildung an Händen/ Füßen/ Mund
+Bläschenbildung an Schleimhäuten/ Augen/ Haut
+Blasenbildung
+blasige Auswürfe
+blutigem Husten
+Brennen
+Brustschmerzen
+Darmblutungen
+Darmentzündungen
+Depression
+Diarrhö
+dicker weisser Belag auf der Zunge mit himbeerroter Umrandung
+Druckschmerz
+dunkle/ blaue Rötung der Haut
+dunkler Urin
+Durchfall
+eingeschränke Augenbeweglichkeit
+Eingeschränkte Mundfunktionen
+einseitiger Mandelbefall
+Eiteransammlung
+Eiterbildung
+Eiterung im Ohr
+Enanthem
+entfärbter Stuhl
+entzündete Mundwinkel
+Entzündung der Abdomenmuskulatur
+Entzündung der Augenlider
+Entzündung der Brustmuskulatur
+Entzündung der Leber
+Entzündung der Mundschleimhaut
+Entzündung des Gehirns
+Entzündung des Nasen-Rachenraums
+Entzündungen
+Enzephalitis
+epileptische Anfälle
+Erblindung
+Erbrechen
+Erhöhte Zahnempfindlichkeit
+erschwertes Wasserlassen
+Eschar
+fauliger Mundgeruch
+Fieber
+Flüssigkeitsmangel
+Flankenschmerzen
+gürtelfärmiger Thoraxschmerz
+Gefäßentzündung
+Gefühlsschwankungen
+Gelbfärbung der Haut
+Gelbfärbung des Auges
+Gelbsucht
+Gelenksschmerzen
+gerötete Haut
+gerötete Mandeln
+Gerötetes Zahnfleisch
+Geschwür am Geschlechtsteil
+Geschwür an der Wange
+Geschwüre
+Geschwüre im Darm
+geschwollene Drüsen
+geschwollene Leber
+geschwollene Lymphknoten
+geschwollene Mandeln
+geschwollene/ stark gerötete Mandeln mit gelblichen Belag
+Gewichtsverlust
+Gingivitis
+Gliederschmerzen
+Größenwahn
+häufiger Harndrang
+Halsentzündung
+Halsschmerzen
+Hautauschlag auf Wangen/ Nase
+Hautausschlag
+Hautentzündungen
+Hautläsion
+Hautrötung
+Heiserkeit
+hellbraune-hellrote Flecken
+Hemiplegie
+Herzrasen
+Hirnhautentzündung
+honiggelber Schorf
+Husten
+Hyperventilieren
+innere Blutungen
+Jucken der Ober-/ Unterlippe
+juckende-stecknadelkopfgroße-rötliche Flecken auf Bauch/ Brust und Rücken
+Juckreiz
+körperliche Schwäche
+Kehlkopfschwellung
+Kieferschmerzen
+klossige Stimme
+Knotenbildung der Haut
+Koma
+Konjunktivitis
+Konzentrationsschwäche
+Kopfschmerzen
+Krampfanfälle
+Kreislaufprobleme
+Lähmung des Augenmuskels
+Lähmungserscheinungen
+Läsionen
+Lageabweichung des Zäpchens
+laufende Nase
+Leistungsminderung
+Leukopenie
+Lichtempfindlichkeit
+Loch im Zahn
+Lungenproble
+Lymphadenitis
+Müdigkeit
+Magen-Darm-Beschwerden
+Magen-Darm-Blutung
+Magenschmerzen
+Mattigkeit
+Meningitis
+Mundblutung
+Mundgeruch
+Muskelkrämpfe im Gesicht
+Muskelschmerzen
+Muskelschmerzen rote Fleckenbildung
+Muskelzittern
+Myalgie
+Nachtschweiß
+Nackenschmerzen
+Nackensteife
+Nasenbluten
+Nierenentzündung
+Nierenversagen
+Oberbauchschmerzen
+offene Hautwunden
+Ohrenschmerzen
+Papelbildung
+Persöhnlichkeitsstörung
+Pharyngitis
+rötliche Papeln
+Rötung
+Rötung der Bindehaut
+Rückenschmerzen
+Rückgang des Zahnfleischs
+Rhinorrhö
+Rippenfellentzündung
+rote Fleckenbildung
+rotes/geschwollenes/ blutiges Zahnfleisch
+Schüttelfrost
+Schienbeinschmerzen
+Schlaflosigkeit
+Schluckbeschwerden
+Schmerzen
+Schmerzen beim Wasserlassen
+Schmerzen der Augen
+Schmerzen der Zähne
+Schmerzen hinter dem Brustbein
+Schmerzen im Oberbauch
+Schmerzen im Scheitel
+Schmerzen in der Blasengegend
+schmerzhafte Bläschen im Mundbereich
+schmerzhafte Haut
+schmerzhaftzer Stuhldrang
+Schnupfen
+Schuppenbildung
+Schwächegefühl
+schwarz/bläuliche Hautfärbung
+Schweißausbrüche
+Schwellung der Leber
+Schwellungen
+Schwindel
+Sehverlust
+Sepsis
+Sinusthrombose
+Somnolenz
+spannende Haut
+Spannungsgefühl
+Speichelfluss aus dem Mund
+Störung des Geruchssinns
+Störung des Geschmackssinns
+stark riechender eitriger Ausfluss
+starker Schmerz im infizierten Bereich
+Steifer Nacken
+Unbehagen
+Unterleibskrämpfe
+Unterleibsschmerzen
+Unwohlsein
+vaginale Blutung
+Verfärbung
+Verfärbung der Zähne
+vergrößerte Milz
+vermehrter nächtlicher Harndrang
+vermehrter Speichelfluss
+verstopfte/ rinnende Nase
+Verstopfung
+Verwirrtheit
+Vollegefühl
+Wadenschmerzen
+Wangenbrand
+warme Haut
+Wasserphobie
+weißer Belag auf Mandeln
+Wundödem
+Wunde in der Mundschleimhaut
+Wundschmerz
+Zahnfleischbluten
+Zahnschmerzen
+Zahnverlust
+Zittern
